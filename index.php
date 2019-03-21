@@ -1,3 +1,4 @@
 <?php 
-echo 1111;
+$res = 2222;
+echo $res;
 ?>
